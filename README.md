@@ -1,4 +1,4 @@
-##### Portfolio-Compliance-Manager-with-Backtracking-Search
+# Portfolio-Compliance-Manager-with-Backtracking-Search
 
 Robert Morris University - Intro to AI - Homework 3
 
@@ -6,13 +6,13 @@ Robert Morris University - Intro to AI - Homework 3
 
 Assuming we are an investment firm that needs to assign a rating to a set of stocks for a new fund.
 
-# Variables (X): 
+#### Variables (X): 
         A set of stocks - Apple Inc. (AAPL), Microsoft (MSFT), Xylem (XYL), Intel (INTC), Exxon Mobil (XOM), Chevron (CVX), ConocoPhillips (COP).
 
-# Domains (D): 
+#### Domains (D): 
         The allowable ratings for each stock: {Buy, Hold, Sell}.
 
-# Constraints (C):
+#### Constraints (C):
         1. Sector Risk: No more than two "Buy" ratings in the Tech sector.
         2. Competitor Conflict.  
         3. ESG Mandate: At least one "Buy" must be a designated high-ESG (Environmental, Social, and Governance) stock.
